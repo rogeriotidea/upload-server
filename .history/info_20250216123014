@@ -1,0 +1,3 @@
+pnpm tsc --init  - para criar .tsconfig
+
+usando node 22.14.0

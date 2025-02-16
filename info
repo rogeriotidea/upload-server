@@ -1,0 +1,7 @@
+pnpm tsc --init  - para criar .tsconfig
+
+acessar tsconfig bases e copiar .tsconfig
+usando node 22.14.0
+
+INICIAR O BIOME
+pnpm biome init  
