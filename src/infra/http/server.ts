@@ -63,5 +63,5 @@ server
     host: '0.0.0.0',
   })
   .then(() => {
-    console.log('Server is running on port 3333')
+    console.log('Running on port 3333')
   })
