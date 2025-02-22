@@ -5,3 +5,9 @@ usando node 22.14.0
 
 INICIAR O BIOME
 pnpm biome init  
+
+
+
+uuid v7
+ulid
+cuid
